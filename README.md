@@ -1,6 +1,7 @@
 # Intro to Deep Learning by HSE
 
-This repo contains programming assignments for now!!! Quiz will be uploaded soon!!!
+This repo contains programming assignments for now!!! Course is updated on August. This repo contains solutions to the new programming assignments too!!!
+
 ## Week 1
 
 [Programming Assignment_1](https://github.com/AKASH2907/Introduction_to_Deep_Learning_Coursera/blob/master/Week_1_PA/week01_pa.ipynb): - Linear Models & Optimization
@@ -21,7 +22,7 @@ This repo contains programming assignments for now!!! Quiz will be uploaded soon
 
 [Programming Assignment_4_1](https://github.com/AKASH2907/Introduction_to_Deep_Learning_Coursera/blob/master/Week_4_PA1/Autoencoders_task.ipynb): - Simple Autoencoders
 
-[programming Assignment_4_2](https://github.com/AKASH2907/Introduction_to_Deep_Learning_Coursera/blob/master/Week_4_PA2/Adversarial_task.ipynb); - Generative Adversarial Networks
+[programming Assignment_4_2](https://github.com/AKASH2907/Introduction_to_Deep_Learning_Coursera/blob/master/Week_4_PA2/Adversarial_task.ipynb); - Generative Adversarial Networks (Hohttps://github.com/AKASH2907/Introduction_to_Deep_Learning_Coursera/blob/master/Week_6_Final_PA/my_week6_final_project_image_captioning_clean.ipynbnors)
 
 ## Week 5 
 
@@ -29,4 +30,4 @@ This repo contains programming assignments for now!!! Quiz will be uploaded soon
 
 ## Week 6
 
-[Programming Assignment 6]()
+[Programming Assignment 6](https://github.com/AKASH2907/Introduction_to_Deep_Learning_Coursera/blob/master/Week_6_Final_PA/my_week6_final_project_image_captioning_clean.ipynb): - Final Project on Image Captioning 
